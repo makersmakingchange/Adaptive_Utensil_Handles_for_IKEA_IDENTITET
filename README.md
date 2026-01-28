@@ -3,15 +3,20 @@
 <!--- TITLE --->
 # Adaptive Utensil Handles for IKEA IDENTITET
 
+> [!IMPORTANT]
+2026-Jan-28 The cutlery set is currently unavailable from IKEA Canada.
+
 ## Overview
 <!--- A brief summary of the project. What it does, who it is for, how much it costs. --->
-The Adaptive Utensil Handles for IKEA IDENTITET is an assistive technology device that provides a cost-effective way for individuals who struggle to grasp and manipulate utensils to eat independently.
+The Adaptive Utensil Handles for IKEA® IDENTITET™ is an assistive technology device that provides a cost-effective way for individuals who struggle to grasp and manipulate utensils to eat independently.
 
-The handles are comprised solely of 3D printed parts. 
+The handles are comprised of 3D printed parts that encapsulate the fork and/or spoon from the [commercially available IKEA® IDENTITET™ cutlery set](https://www.ikea.com/ca/en/p/identitet-16-piece-cutlery-set-stainless-steel-50578174/) . 
 
-The Adaptive Utensil Handles for IKEA IDENTITET is an open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
+The Adaptive Utensil Handles are an open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
 
 The overall cost of materials for a set of utensils and full set of handles is about $20 CAD.  
+
+*IKEA® and IDENTITET™ are trademarks of Inter IKEA Systems B.V. This device is not affiliated with, endorsed by, or sponsored by IKEA.*
 
 <img src="Photos/Adaptive_Utensil_Handles.png" width="500" alt="An IKEA Identitet fork in an adapted handle, along with several other handle variants.">
 
